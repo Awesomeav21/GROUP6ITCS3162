@@ -1,0 +1,9 @@
+Introduction: 
+For our project, we are exploring the question “Can we group stocks together based on how their prices and trading volumes have changed over time?” 
+Instead of trying to predict future prices, which can be affected by unpredictable events like news, economic changes, or global crises, we are looking at what we can learn from past patterns.
+More specifically, do certain stocks tend to behave in similar ways, and can we use that behavior to organize them into meaningful groups?
+To do this, we are using a large dataset from Kaggle that includes daily trading data for thousands of companies across the NYSE and NASDAQ. 
+With this data, we are studying trends in price movement and trading activity and using clustering methods to find stocks that show similar behaviors over time. 
+By the end of the project, we hope to answer one more key question: Do these clusters reflect real-world categories like industry sectors or types of businesses? 
+This approach will help us understand the stock market in a new way by revealing the patterns that connect different companies through their historical performance.
+ 
